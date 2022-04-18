@@ -1046,4 +1046,4 @@ insert into KAMRADJA.POKEHAVETYPE (POKEID, TYPENAME) values ('224', 'Water');
 insert into KAMRADJA.POKEHAVETYPE (POKEID, TYPENAME) values ('226', 'Water');
 insert into KAMRADJA.POKEHAVETYPE (POKEID, TYPENAME) values ('230', 'Water');
 insert into KAMRADJA.POKEHAVETYPE (POKEID, TYPENAME) values ('245', 'Water');
-insert into pokeHaveType values ('246', 'Water');
+
